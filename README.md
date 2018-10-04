@@ -199,7 +199,7 @@ if __name__ == '__main__':
 
 Change database URL in `application.py` and `database_setup.py`
 
-19. `'postgresql://catalog:catalogpassword@localhost/catalog')`
+19. `'postgresql://catalog:catalogpassword@localhost/catalog'`
 
 
 Give permission to access, modify and read `.git` only to `root` user
@@ -211,7 +211,7 @@ Reload Apache web server
 
 22. `sudo /etc/init.d/apache2 reload`
 
-###Set up Google credentials
+### Set up Google credentials
 
 1. Access `https://console.developers.google.com/` and select the project in the top left menu.
 2. Click on `Credentials` in the left menu.
